@@ -1,1 +1,1 @@
-h1. Examples dealing with incident management
+## Examples dealing with incident management
